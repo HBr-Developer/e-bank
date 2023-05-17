@@ -17,3 +17,9 @@ eBanking backend avec spring --Exam fin module EMSI
 ![7](https://github.com/HBr-Developer/e-bank/assets/80393682/8ad451fa-e299-43a6-aca2-ad33d260f7d6)
 
 ![8](https://github.com/HBr-Developer/e-bank/assets/80393682/e56178e2-fb7d-44a1-8c69-9fbd6df3e3ed)
+
+![9](https://github.com/HBr-Developer/e-bank/assets/80393682/9accce35-5c66-4aec-b8fc-cc1ebd908a6c)
+
+![10](https://github.com/HBr-Developer/e-bank/assets/80393682/3b73119d-9aab-443d-a972-d6f8c2b5f1cb)
+
+![11](https://github.com/HBr-Developer/e-bank/assets/80393682/00ed7cff-5539-4f64-867c-79257de97849)
